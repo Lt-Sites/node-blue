@@ -26,6 +26,7 @@
         }
     ],
     "dependencies": {
+        "require-from-string": "2.0.2",
         "ajv": "6.12.6",
         "async-mutex": "0.2.4",
         "basic-auth": "2.0.1",
